@@ -6,4 +6,4 @@ The data in this study is a quarterly report from a fictive telecom company that
 
 This repository contains a [Telco_Churn_Prediction]() notebook that explains the model.
 
-The model was deployed with Streamlit and can be accessed [here](). If the app has gone to sleep, simply wake it up.
+The model was deployed with Streamlit and can be accessed [here](https://churn-prediction-itee.streamlit.app/). If the app has gone to sleep, simply wake it up.

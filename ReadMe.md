@@ -4,6 +4,6 @@ For a first-case churn analysis, we will want to check that churn rate is not sa
 
 The data in this study is a quarterly report from a fictive telecom company that provides home phone service and internet subscriptions. We will treat the data as a first-case churn analysis study. We inspect and explore the data to understand the factors that affect churn, train a model to predict churn, test the model and verify accuracy.
 
-This repository contains a [Telco_Churn_Prediction]() notebook that explains the model.
+This repository contains a [Telco_Churn_Prediction](https://github.com/ItunuoluwaOlowoye/Churn-Prediction/blob/main/Telco_Churn_Prediction.ipynb) notebook that explains the model.
 
 The model was deployed with Streamlit and can be accessed [here](https://churn-prediction-itee.streamlit.app/). If the app has gone to sleep, simply wake it up.
